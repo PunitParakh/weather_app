@@ -1,16 +1,11 @@
-# weather_app
+## weather_App
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Description
 
-A few resources to get you started if this is your first Flutter project:
+This is a flutter project which will get the user current location and show the current weather. it has one more feature that you can search any place around the world and it will show the weather of that place. This project is Working on an api given by openweathermap.org 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This repository is open for all, Anybody can fork it and use it.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So what are you waiting for, give it a try. :)
